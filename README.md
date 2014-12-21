@@ -12,4 +12,16 @@ Pour plus d'informations rendez vous sur : http://chrono-making.com/
 Credits
 ============
 
+RMXOS - Blizzard
+
+Quest System - Game Guy
+
+Blizz-ABS - Blizzard
+
+Drop Menu - Nathmatt
+
+Party HUD - Wizered67 
+
+Mouse System - Blizzard
+
 Enterbrain - RPG Maker XP et RGSS.
