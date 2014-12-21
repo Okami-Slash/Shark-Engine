@@ -1,4 +1,4 @@
-Shark-Engine
+Shark Engine
 ============
 
 Shark Engine est un ensemble de script en ligne pour RPG Maker. Les scripts de Shark Engine sont développer en RGSS (une variation de Ruby) qui est un langage accessible aux débutants.
